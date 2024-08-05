@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": "2f85",
+      "firstname": "arunkumar",
+      "lastname": "sannadi",
+      "email": "arunreddy7730@gmail.com",
+      "mobile": "7672001380",
+      "dob": "2000-05-22",
+      "gender": "Male",
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "city": "Tirupati",
+      "address": "srikalahasti",
+      "hobbies": [
+        "Music",
+        "TV",
+        "Playing Shuttle",
+        "Reading Books"
+      ],
+      "agree": true
+    }
+  ]
+}
